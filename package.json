@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "dotenv": "^16.0.3",
-    "mysql2": "^3.2.0",
-    "sequelize": "^6.30.0"
-  }
-}
